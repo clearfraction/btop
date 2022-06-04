@@ -35,3 +35,6 @@ make  %{?_smp_mflags}
 %defattr(-,root,root,-)
 /usr/bin/btop
 /usr/share/btop
+/usr/share/applications/btop.desktop
+/usr/share/icons/hicolor/48x48/apps/btop.png
+/usr/share/icons/hicolor/scalable/apps/btop.svg
