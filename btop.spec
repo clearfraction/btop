@@ -1,6 +1,6 @@
 Name     : btop
-Version  : 1.2.6
-Release  : 1
+Version  : 1.2.7
+Release  : 2
 URL      : https://github.com/aristocratos
 Source0  : https://github.com/aristocratos/btop/archive/refs/tags/v%{version}.tar.gz
 Summary  : Interactive process viewer
